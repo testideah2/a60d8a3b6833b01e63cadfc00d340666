@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.toffana.app"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. toffana.ru</name>
+<name>ТЕСТ. Toffana</name>
 
 <description>
     Под маркой Toffana | Craft Cosmetics мы изготавливаем натуральную косметику, ограниченными сериями и только вручную. Ограниченные серии при изготовлении гарантируют свежесть продукта, в отличие от запыленных и безликих товаров с полки магазина. Вся продукция изготавливается вручную с любовью к своему делу.
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#D91B2E" />
+<preference name="SplashScreenSpinnerColor" value="#D52737" />
 
 
 <platform name="android">
